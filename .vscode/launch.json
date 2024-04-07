@@ -11,7 +11,9 @@
             "program": "${file}",
             "console": "integratedTerminal",
             //"args": "${command:pickArgs}"
-            "args": ["laptopAtDesktopWithoutPower_s=2000_g=1_c=5.npz"]
+            "args": [
+                "gefiltert_general_s=12800_g=1.npz"
+            ]
         }
     ]
 }

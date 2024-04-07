@@ -80,4 +80,4 @@ if __name__ == "__main__":
     
     concatenatedData = np.concatenate((data, reversedData), axis=1)
 
-    writeToBinaryFile(filenameOut, concatenatedData)
+    writeToBinaryFile(filenameOut, data)
